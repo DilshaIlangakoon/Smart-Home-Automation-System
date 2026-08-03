@@ -1,8 +1,11 @@
 <h1 align="center">🏡 Smart Home Automation System</h1>
 
 <p align="center">
-An IoT-based Smart Home Automation System using ESP32
+  An IoT-based Smart Home Automation System using ESP32
 </p>
+<p align="center"><img width="700" height="350" alt="1" src="https://github.com/user-attachments/assets/f5e7416f-8f73-4024-b6d9-23d5bcc28fe4" />
+
+
 
 A Smart Home Automation System developed using ESP32 and IoT technologies to improve home comfort, energy efficiency, and safety through intelligent automation.
 
