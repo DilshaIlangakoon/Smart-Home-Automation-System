@@ -90,12 +90,12 @@ Working on this project strengthened our understanding of:
 
 ## 👥 Team Members
 
-* M.C.S Jayasekara
-* B.A.R Fernando 
-* H.K.D Imanjith 
-* U Lojithan 
-* Dilsha Ilangakoon 
-* K Ratnasabapathy 
+* Dilsha Ilangakoon
+* Ashan Fernando
+* Methsara Jayasekara
+* Dinod Imanjith 
+* U Lojithan  
+* Krithika Ratnasabapathy 
 
 ---
 
