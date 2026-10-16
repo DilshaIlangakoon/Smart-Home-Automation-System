@@ -1,4 +1,4 @@
-<h1 align="center">🏡 Smart Home Automation System</h1>
+<h1 align="center"> Smart Home Automation System</h1>
 
 <p align="center">
   An IoT-based Smart Home Automation System using ESP32
