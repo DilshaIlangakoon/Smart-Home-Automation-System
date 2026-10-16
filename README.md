@@ -1,4 +1,4 @@
-<h1 align="center">🏡 Smart Home Automation System</h1>
+<h1 align="center"> Smart Home Automation System</h1>
 
 <p align="center">
   An IoT-based Smart Home Automation System using ESP32
@@ -21,18 +21,18 @@ The system automatically responds to environmental conditions using IoT-enabled 
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-- 💡 Smart Lighting Control
-- 🌡️ Temperature-Responsive Fan
-- ☀️ Automated Window Blinds
-- 🚰 Automated Water Switching System
-- 🌊 Emergency Flood Alert
-- 📱 Real-time Monitoring & Control using the Blynk Mobile App
+-  Smart Lighting Control
+-  Temperature-Responsive Fan
+-  Automated Window Blinds
+-  Automated Water Switching System
+-  Emergency Flood Alert
+-  Real-time Monitoring & Control using the Blynk Mobile App
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 ### Hardware
 - ESP32 Development Board
@@ -54,7 +54,7 @@ The system automatically responds to environmental conditions using IoT-enabled 
 
 ---
 
-## 🏗 System Architecture
+##  System Architecture
 
 The Smart Home Automation System consists of an ESP32 microcontroller connected to multiple environmental sensors and output devices.
 
@@ -62,7 +62,7 @@ The ESP32 continuously collects sensor data, processes automation logic, and con
 
 ---
 
-## 🔌 Hardware Components
+##  Hardware Components
 
 | Component | Purpose |
 |-----------|---------|
@@ -78,7 +78,7 @@ The ESP32 continuously collects sensor data, processes automation logic, and con
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 Working on this project strengthened our understanding of:
 
@@ -91,7 +91,7 @@ Working on this project strengthened our understanding of:
 
 ---
 
-## 👥 Team Members
+##  Team Members
 
 * Dilsha Ilangakoon
 * Ashan Fernando
@@ -102,26 +102,26 @@ Working on this project strengthened our understanding of:
 
 ---
 
- ## 📄 License
+ ##  License
 
 This project was developed for academic purposes as part of a university group project.
 
 ---
 
-## ⭐ Acknowledgements
+##  Acknowledgements
 
 Special thanks to our teammates for their continuous support throughout the development of this project.
 
 ---
 
-## 📚 Documentation
+##  Documentation
 
   This repository contains the complete documentation and implementation resources for the Smart Home Automation System project.
   
   The repository includes:
 
-- 🏗️ System Architecture Diagram
-- ✨ Overview of Key Features
-- ⚡ Circuit Diagram
-- 🔄 Workflow Diagrams for Each System Feature
-- 📄 Project Proposal Document
+-  System Architecture Diagram
+-  Overview of Key Features
+-  Circuit Diagram
+-  Workflow Diagrams for Each System Feature
+-  Project Proposal Document
